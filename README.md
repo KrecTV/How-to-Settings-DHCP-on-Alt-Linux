@@ -1,0 +1,1 @@
+# How-to-Settings-DHCP-on-Alt-Linux
